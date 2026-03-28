@@ -3,7 +3,7 @@
 
 ## Project Title
 
----
+Hotel
 
 ## Problem Statement (max 150 words)
 
